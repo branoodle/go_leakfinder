@@ -15,4 +15,4 @@ leakfinder -e <E-MAIL ADDRESS> -k <API-KEY>
 - [Adhoc](https://github.com/Adhoc-yt) for the name
 
 ## DISCLAIMER
-This is code is only for educational purpose. So i'am not responsible for any illegal use of this code.
+This is code is only for educational purpose. So i'm not responsible for any illegal use of this code.
